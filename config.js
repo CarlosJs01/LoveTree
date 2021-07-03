@@ -2,13 +2,13 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "May God bless you with all of the wonderful desires of your heart",
-        "and bless you to keep the many blessings that you already have.",
-        "Life has two rules:",
-        "1) Never quit.",
-        "2) Always remember Rule",
-        "Until getting what you want",
-        "And be the one that you wanna be",
+        "愿上帝保佑你心中所有美好的愿望",
+        "保佑你保持你已经拥有的许多祝福.",
+        "人生有两条法则:",
+        "1）永不放弃。",
+        "2）永远记住规则",
+        "直到得到你想要的,成为你想成为的人",
+        "生日快乐，亲爱的！",
     ]
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
